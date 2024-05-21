@@ -8,7 +8,7 @@
 * An inbuilt file 'data/haarcascade_frontalface_default.xml' is used to
 save the captured face features of the new user. This data is saved in a pickle file.
 
-* Next, test.py file is to be executed where the actual prediction of the user's face takes place. 
+* Next, the test.py file is to be executed where the actual prediction of the user's face takes place. 
 
 * Code Description.pdf file contains detailed working of the code. 
 
@@ -16,17 +16,20 @@ save the captured face features of the new user. This data is saved in a pickle 
 
 + Add a new User. 
 
-/Users/samiksha/Desktop/Screenshot 2024-05-22 at 12.42.02 AM.png
+![Screenshot 2024-05-22 at 12 42 02 AM](https://github.com/samiksha-badgujar/Smart-Attendance-Management-System-using-Face-Recognition/assets/126308884/dc65878b-2408-4eb7-84a6-88c4dccb3e08)
 
 
 + 100 frames are captured to learn the new user's facial features.
- 
-/Users/samiksha/Desktop/Screenshot 2024-05-22 at 12.42.13 AM.png
 
-+ Afterwards, the user is identified correctly by their name. 
+ ![Screenshot 2024-05-22 at 12 42 13 AM](https://github.com/samiksha-badgujar/Smart-Attendance-Management-System-using-Face-Recognition/assets/126308884/031e64d0-702b-4728-84f6-3e3d10a6ed95)
 
-/Users/samiksha/Desktop/Screenshot 2024-05-22 at 12.42.26 AM.png
+
++ Afterwards, the user is identified correctly by their name.
+  
+![Screenshot 2024-05-22 at 12 42 26 AM](https://github.com/samiksha-badgujar/Smart-Attendance-Management-System-using-Face-Recognition/assets/126308884/36bf7368-e088-457a-b820-5580fb257087)
+
 
 + Attendance is marked in the pickle file.
 
-/Users/samiksha/Desktop/Screenshot 2024-05-22 at 12.42.37 AM.png
+![Screenshot 2024-05-22 at 12 42 37 AM](https://github.com/samiksha-badgujar/Smart-Attendance-Management-System-using-Face-Recognition/assets/126308884/a053957b-ca96-4794-9407-fb70646b116e)
+
